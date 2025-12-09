@@ -1,5 +1,5 @@
 # E-Commerce-Funnel-Analysis
-Analyze user behaviour through funnel analysis
+
 
 **Aim** :
 To identify User Behaviour patterns on the E-Commerce platform using Funnel analysis.
