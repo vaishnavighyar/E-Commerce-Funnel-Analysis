@@ -1,16 +1,16 @@
 # E-Commerce-Funnel-Analysis
 Analyze user behaviour through funnel analysis
 
-**Aim**
+**Aim** :
 To identify User Behaviour patterns on the E-Commerce platform using Funnel analysis.
 
-**Dataset used**
+**Dataset used** : 
 [E-Commerce Customer Journey: Click to Conversion](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)
 
-**Techstack used**
+**Techstack used** : 
 Python _(EDA)_, SQL _(KPI analysis)_, Power BI, Funnel analysis
 
-**KPI**
+**KPI** :
 1.	Where do we lose customers?
 2.	Where do users drop off?
 3.	How time spent on each page affect the conversion rate?
@@ -21,7 +21,8 @@ Python _(EDA)_, SQL _(KPI analysis)_, Power BI, Funnel analysis
 
 <img width="1579" height="911" alt="Image" src="https://github.com/user-attachments/assets/a566158b-7f0b-49e0-bde6-622e0fd19c4e" />
 
-**Analysis Steps:**
+**Analysis Steps:** : 
+
 1.	Performed EDA on the dataset using Python.
 2.	Imported the dataset into MySQL 
 3.	Identified formulas for defined KPIs.
@@ -30,7 +31,10 @@ Python _(EDA)_, SQL _(KPI analysis)_, Power BI, Funnel analysis
 
 5.	Exported .csv files of the output of defined KPIs into Power BI
 6.	Build Dashboard & Report showcasing insights found analysis.
-**Insights from analysis**
+
+
+**Insights from analysis** : 
+
 1. Our website has **5000** total sessions with **20.20%** as its Conversion rate, i.e _1010_ sessions resulted in completing the purchase.
 2. But, we lose almost half of our customers when navigating from Product page to cart page, with a _drop off_ rate of **59.89%**. 
 3. On an average, a converted user spend **99.89** **sec** on each page, whereas **97.54 sec** is the time spent by a non-converted user. _(indicates user carefully reviewing their order before checkout)_
