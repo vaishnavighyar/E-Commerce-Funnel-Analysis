@@ -10,6 +10,7 @@ To identify User Behaviour patterns on the E-Commerce platform using Funnel anal
 **Techstack used** : 
 Python _(EDA)_, SQL _(KPI analysis)_, Power BI, Funnel analysis
 
+
 **KPI** :
 1.	Where do we lose customers?
 2.	Where do users drop off?
@@ -19,7 +20,10 @@ Python _(EDA)_, SQL _(KPI analysis)_, Power BI, Funnel analysis
            ~By Referral source
 5.	Country-wise user performance.
 
+
 <img width="1579" height="911" alt="Image" src="https://github.com/user-attachments/assets/a566158b-7f0b-49e0-bde6-622e0fd19c4e" />
+
+
 
 **Analysis Steps:** : 
 
@@ -31,6 +35,7 @@ Python _(EDA)_, SQL _(KPI analysis)_, Power BI, Funnel analysis
 
 5.	Exported .csv files of the output of defined KPIs into Power BI
 6.	Build Dashboard & Report showcasing insights found analysis.
+
 
 
 **Insights from analysis** : 
